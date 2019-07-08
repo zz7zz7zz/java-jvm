@@ -5,10 +5,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 堆异常Demo
+ * Java堆内存异常测试
  * 
  * VM Args : -Xms20M -Xmx20M  -XX:+HeapDumpOnOutOfMemoryError
- * 
+ * 说明：-Xms 堆最小值 -Xmx 堆最大值
  * @author Administrator
  *
  */
